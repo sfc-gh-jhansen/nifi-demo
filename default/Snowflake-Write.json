@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1740882228316,
+    "description" : "",
+    "identifier" : "Snowflake-Write",
+    "lastModifiedTimestamp" : 1740882228316,
+    "name" : "Snowflake Write",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
