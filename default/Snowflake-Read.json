@@ -457,9 +457,9 @@
     "labels" : [ {
       "componentType" : "LABEL",
       "groupIdentifier" : "flow-contents-group",
-      "height" : 48.0,
+      "height" : 80.0,
       "identifier" : "da14f1c8-7963-3a56-bec8-135c7134e4af",
-      "label" : "Test Label",
+      "label" : "Test Label\nUpdated label",
       "position" : {
         "x" : -200.0,
         "y" : -480.0
