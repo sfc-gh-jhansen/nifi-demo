@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1740882097564,
+    "description" : "My Snowflake Read flow",
+    "identifier" : "Snowflake-Read",
+    "lastModifiedTimestamp" : 1740882097564,
+    "name" : "Snowflake Read",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
