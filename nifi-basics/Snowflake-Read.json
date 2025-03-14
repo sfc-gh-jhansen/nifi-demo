@@ -733,7 +733,7 @@
       "retryCount" : 10,
       "runDurationMillis" : 0,
       "scheduledState" : "ENABLED",
-      "schedulingPeriod" : "0 sec",
+      "schedulingPeriod" : "5 min",
       "schedulingStrategy" : "TIMER_DRIVEN",
       "style" : { },
       "type" : "org.apache.nifi.processors.standard.ExecuteSQLRecord",
@@ -756,6 +756,24 @@
         "provided" : false,
         "sensitive" : false,
         "value" : "net.snowflake.client.jdbc.SnowflakeDriver"
+      }, {
+        "description" : "",
+        "name" : "snowflake_database",
+        "provided" : false,
+        "sensitive" : false,
+        "value" : "CITIBIKE"
+      }, {
+        "description" : "",
+        "name" : "snowflake_schema",
+        "provided" : false,
+        "sensitive" : false,
+        "value" : "DEMO"
+      }, {
+        "description" : "",
+        "name" : "snowflake_table",
+        "provided" : false,
+        "sensitive" : false,
+        "value" : "CUSTOMER"
       }, {
         "description" : "",
         "name" : "snowflake_user",
